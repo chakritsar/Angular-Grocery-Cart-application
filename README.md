@@ -5,6 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## json server(server side)
+
+Run npm i -g json-server. In your current folder, download this file and then run json-server db.json. Navigate to http://localhost:3000/ to verify if it worked.
+
+http://localhost:3000/cart - to check the items which were added into cart at json server side.
+http://localhost:3000/wishlist - to check items added to wishlist at json server side.
 
 ## Code scaffolding
 
